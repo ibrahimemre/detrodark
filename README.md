@@ -1,0 +1,2 @@
+# detrodark
+DetroDark A.Ş
